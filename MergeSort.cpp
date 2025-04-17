@@ -105,6 +105,9 @@ int main()
     output();
 }
 
+// end of code
+// step 1, step 2, step 3, dst...
+// memberikan label dan penjelasan untuk tiap bagian penting merge sort
 
 
 
